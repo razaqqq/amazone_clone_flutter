@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974904225538",
+    "firebase_url": "https://clone-flutter-f6ea5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clone-flutter-f6ea5",
+    "storage_bucket": "clone-flutter-f6ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974904225538:android:50bd9951711a419ee9dc1b",
+        "android_client_info": {
+          "package_name": "com.amazone_clone.amazone_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974904225538-5rv2sjnap8htmlf5tfk2quqgucdg8uhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYe4ndSkcntPn-Krj81WxKnhWXN2FtWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974904225538-5rv2sjnap8htmlf5tfk2quqgucdg8uhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
